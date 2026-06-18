@@ -17,5 +17,5 @@ How to run it
 Just download the files and open index.html in Chrome.
 Works best on Chrome — other browsers may have fewer voice options.
 
-## Live Demo
-(link coming soon)
+Live Demo
+ https://sagufta-b.github.io/Text-to-Speech-Converter/
